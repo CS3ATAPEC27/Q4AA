@@ -1,0 +1,340 @@
+body {
+    font-family: Tahoma, sans-serif;
+    overflow-x: hidden;
+}
+
+.darw {
+    background-image: url('darw.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 700px;
+    width: 100%;
+    
+}
+
+.h {
+    font-size: 25px;
+    position: relative;
+    top: -580px;
+    left: 6%;
+    color:rgb(40, 33, 29);
+}
+.p {
+    font-size: 30px;
+    position: relative;
+    top: -570px;
+    left: 12%;
+    letter-spacing: 3px;
+    color:rgb(40, 33, 29);
+}
+.a {
+    font-size: 28px;
+    position: relative;
+    top: -570px;
+    left: 17%;
+    width: 850px; 
+    height: 50px; 
+    display: inline-block; 
+    text-align: justify;
+    color:rgb(40, 33, 29);
+
+}
+
+
+.container2 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100vh;
+    position: relative;
+    top: 2900px;
+  }
+
+  .text-section {
+    width: 90%;
+    padding: 20px;
+  }
+
+.i {
+        position: relative;
+        text-align: left;
+        font-size: 20px;
+}
+
+.L {
+    position: relative;
+    margin-top: 20px;
+    font-size: 25px;
+}
+
+.jean {
+    position: relative;
+    left: 8%;
+    font-size: 23px;
+    width: 900px;
+}
+
+.lamar {
+    width: 400px;
+    position: relative;
+    left: 58%;
+    top: 50px;
+    font-size: 20px;
+    text-align: justify;
+}
+
+p {
+    line-height: 1.5;
+}
+
+.image-section {
+    width: 40%;
+  }
+
+  img {
+    width: 100%;
+    height: 300px;
+    width: 400px;
+    position: relative;
+    top: -350px;
+    left: 30%;
+  }
+
+.evo {
+    position: relative;
+    left: 8%;
+    font-size: 22px;
+    width: 900px;
+    top: 100px;
+}
+
+.graf {
+    top: -90px;
+    width: 1300px;
+    height: 300px;
+    position: relative;
+    left: -90px;
+}
+
+.e {
+    position: relative;
+        text-align: left;
+        font-size: 20px;
+}
+
+.C {
+    position: relative;
+    margin-top: 20px;
+    font-size: 25px;
+}
+
+.geo {
+    position: relative;
+    left: 8%;
+    font-size: 23px;
+    width: 900px;
+}
+
+.clas {
+    width: 400px;
+    position: relative;
+    left: 10%;
+    top: 50px;
+    font-size: 20px;
+    text-align: justify;
+}
+
+.aste {
+    width: 400px;
+    position: relative;
+    left: 10%;
+    top: -290px;
+    font-size: 17px;
+    text-align: justify;
+}
+
+.cat {
+    position: relative;
+    top: -150px;
+    left: 45%;
+    width: 550px;
+    height: 350px;
+}
+.ohaha {
+    width: 400px;
+    position: relative;
+    left: 10%;
+    font-size: 17px;
+    text-align: justify;
+}
+
+.ha1 {
+    top: -280px;
+
+}
+.ha2 {
+    top: -430px;
+    left: 50%;
+    
+}
+.ha3 {
+    top: -430px;
+}
+.ha4 {
+    top: -550px;
+    left: 50%;
+}
+.clas2 {
+    width: 950px;
+    position: relative;
+    left: 5%;
+    top: -540px;
+    font-size: 20px;
+    text-align: justify;
+}
+
+.star{
+    position: relative;
+    top: -500px;    
+    width: 1350px;
+    height: 500px;
+    left: -95px;
+    margin-bottom: -100px;
+}
+
+.tran {
+    position: relative;
+    top: -500px;
+}
+.s {
+    position: relative;
+    text-align: left;
+    font-size: 20px;
+}
+
+.T {
+position: relative;
+margin-top: 20px;
+font-size: 25px;
+}
+
+.trans {
+position: relative;
+left: 8%;
+font-size: 23px;
+width: 900px;
+}
+
+.theo {
+    position: relative;
+    top: -450px;
+}
+
+.d {
+    position: relative;
+    text-align: left;
+    font-size: 20px;
+}
+
+.N {
+position: relative;
+margin-top: 20px;
+font-size: 25px;
+}
+
+.will {
+    position: relative;
+    left: 8%;
+    font-size: 23px;
+    width: 900px;
+    }
+
+.penk {
+    position: relative;
+    width: 1350px;
+    height: 700px;
+    top: -400px;
+    left: -100px;
+}
+
+
+
+
+.geology{
+    position: relative;
+    top: -350px;
+}
+
+.g {
+    position: relative;
+    text-align: left;
+    font-size: 20px;
+}
+
+.U {
+position: relative;
+margin-top: 20px;
+font-size: 25px;
+}
+
+.charles {
+    position: relative;
+    left: 8%;
+    font-size: 21px;
+    width: 900px;
+    }
+
+.dar {
+    position: relative;
+    left: 2%;
+    top: 30px;
+    font-size: 22px;
+    width: 1100px;
+    text-align: justify;
+    }
+
+.last {
+    position: relative;
+    width: 2050px;
+    height: 600px;
+    left: -320px;
+    top: -100px;
+}
+
+
+.char {
+    position: relative;
+    top: 50px;
+}
+
+.D {
+position: relative;
+left: 6%;
+margin-top: 20px;
+font-size: 25px;
+letter-spacing: 2px;
+}
+
+.theory {
+    position: relative;
+    left: 4%;
+    font-size: 21px;
+    width: 1000px;
+    text-align: justify;
+    }
+
+    .win {
+        position: relative;
+        left: 4%;
+        font-size: 21px;
+        width: 1000px;
+        text-align: justify;
+        }
+    
+.last1 {
+    position: relative;
+    width: 2050px;
+    height: 600px;
+    left: -320px;
+    top: 100px;
+}

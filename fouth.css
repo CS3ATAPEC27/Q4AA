@@ -1,0 +1,400 @@
+.fir {
+    background-image: url('mech.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 700px;
+    width: 100%;
+    background-size: cover;
+    
+}
+
+body {
+    font-family: Tahoma, sans-serif;
+    overflow-x: hidden;
+}
+
+.h {
+    font-size: 25px;
+    position: relative;
+    top: -580px;
+    left: 6%;
+    color:rgb(236, 236, 236);
+}
+.p {
+    font-size: 30px;
+    position: relative;
+    top: -570px;
+    left: 12%;
+    letter-spacing: 3px;
+    color:rgb(236, 236, 236);
+    font-weight: bold;
+}
+.a {
+    font-size: 28px;
+    position: relative;
+    top: -570px;
+    left: 17%;
+    width: 850px; 
+    height: 50px; 
+    display: inline-block; 
+    text-align: justify;
+    color:rgb(236, 236, 236);
+}
+
+.darwin {
+    position: relative;
+    top: -200px;
+    left: -280px;
+    width: 1200px;
+}
+
+.charles {
+    text-align: justify;
+    position: relative;
+    font-size: 21px;
+    top: -700px;
+    width: 500px;
+    right: -600px;
+}
+
+.selec {
+    position: relative;
+    width: 1000px;
+    font-size: 20px;
+    top: -1000px;
+    left: 100px;
+    color: white;
+    text-align: justify;
+}
+.selec1 {
+    position: relative;
+    width: 1000px;
+    font-size: 20px;
+    top: -980px;
+    left: 100px;
+    color: white;
+    text-align: justify;
+}
+.sec {
+    background-image: url('eyes.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 700px;
+    width: 100%;
+    background-size: cover;
+    position: relative;
+    top: -400px;
+
+}
+.gala {
+    position: relative;
+    top: -700px;
+}
+
+.bird {
+    position: relative;
+    width: 600px;
+    left: 5%;
+    font-size: 17px;
+    text-align: justify;
+}
+
+.nine {
+        position: relative;
+        width: 600px;
+        left: 5%;
+        font-size: 17px;
+        text-align: justify;
+}
+.bird1 {
+position: relative;
+width: 220px;
+top: -1200px;
+left: 710px;
+}
+
+.bird2 {
+    position: relative;
+    width: 270px;
+    top: -1200px;
+    left: 720px;
+}
+.bird3 {
+    position: relative;
+    width: 400px;
+    top: -950px;
+    left: 250px;
+}
+
+.iro {
+    background-image: url('iro.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 700px;
+    width: 100%;
+    background-size: cover;
+    position: relative;
+    top: -800px;
+}
+
+.v{
+    font-size: 30px;
+    position: relative;
+    top: -570px;
+    left: 12%;
+    letter-spacing: 3px;
+    font-weight: bold;
+}
+.var {
+    font-size: 28px;
+    position: relative;
+    top: -580px;
+    left: 17%;
+    width: 850px; 
+    height: 50px; 
+    display: inline-block; 
+    text-align: justify;
+}
+
+.variation {
+    position: relative;
+    top: -800px;
+    color: rgb(19, 19, 70) ;
+}
+
+.adapt {
+    position: relative;
+    top: -300px;
+}
+.one {
+    font-size: 15px;
+    position:relative;
+    width: 600px;
+    text-align: justify;
+    left: 6%;
+    top: -700px;
+}
+
+.one1 {
+    position: relative;
+    width: 220px;
+    top: -1270px;
+    left: 710px;
+    }
+    
+    .two {
+        position: relative;
+        width: 270px;
+        top: -1280px;
+        left: 720px;
+    }
+    .three {
+        position: relative;
+        width: 380px;
+        top: -1000px;
+        left: 250px;
+        margin-top: 50px;
+    }
+
+.pic {
+    background-image: url('mut.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 100%;
+    background-size: cover;
+    position: relative;
+    top: -800px;
+}
+
+.mut {
+    position: relative;
+    top: -700px;
+}
+.mutation {
+    font-size: 30px;
+    position: relative;
+    top: -570px;
+    left: 12%;
+    letter-spacing: 3px;
+    font-weight: bold;
+}
+
+.dna {
+    font-size: 28px;
+    position: relative;
+    top: -580px;
+    left: 17%;
+    width: 850px; 
+    height: 50px; 
+    display: inline-block; 
+    text-align: justify;
+}
+
+.div {
+    position: relative;
+    top: -1000px;
+}
+.text {
+        position: relative;
+        width: 1100px;
+        left: 5%;
+        font-size: 17px;
+        text-align: justify;
+}
+
+span {
+    text-align: center;
+    position: relative;
+    left: 10%;
+    width: 700px;
+}
+
+.text2 {
+    position: relative;
+    width: 1100px;
+    left: 5%;
+    font-size: 17px;
+    text-align: justify;
+}
+.text3 {
+    position: relative;
+    width: 1100px;
+    left: 5%;
+    font-size: 17px;
+    text-align: justify;
+}
+
+.haha {
+    background-image: url('hahah.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 100%;
+    background-size: cover;
+    position: relative;
+    top: -900px;
+}
+
+.gene {
+    background-image: url('gene.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 800px;
+    width: 100%;
+    background-size: cover;
+    position: relative;
+    top: -1300px;
+}
+
+
+.geneticdrift {
+    font-size: 30px;
+    position: relative;
+    top: -1940px;
+    left: 12%;
+    letter-spacing: 3px;
+    font-weight: bold;
+}
+
+.content {
+    font-size: 28px;
+    position: relative;
+    top: -1930px;
+    left: 17%;
+    width: 850px; 
+    height: 50px; 
+    display: inline-block; 
+    text-align: justify;
+}
+
+
+.uno {
+    position: relative;
+    width: 240px;
+    top: -1470px;
+    left: 700px;
+    }
+    
+    .dos {
+        position: relative;
+        width: 270px;
+        top: -1490px;
+        left: 700px;
+    }
+    .tres {
+        position: relative;
+        width: 380px;
+        top: -1200px;
+        left: 230px;
+        margin-top: 50px;
+    }
+.para {
+    position: relative;
+    top: -600px;
+}
+
+.para1 {
+    position: relative;
+    top: -300px;
+}
+
+
+.alle {
+    font-size: 15px;
+    position:relative;
+    width: 600px;
+    text-align: justify;
+    left: 6%;
+    top: -550px;
+}
+
+.flow{
+    background-image: url('flow.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 520px;
+    width: 100%;
+    background-size: cover;
+    position: relative;
+    top: -1600px;
+}
+
+.genflow {
+    position: relative;
+    left: 12%;
+}
+
+.geneflow {
+    font-size: 30px;
+    position: relative;
+    top: -2050px;
+    left: 5%;
+    letter-spacing: 3px;
+    font-weight: bold;
+}
+
+.parag {
+    
+    font-size: 28px;
+    position: relative;
+    top: -2050px;
+    left: 8%;
+    width: 850px; 
+    height: 50px; 
+    display: inline-block; 
+    text-align: justify;
+}
+
+
+.last1 {
+    position: relative;
+    top: -2100px;
+}
+.lastt {
+    position: relative;
+    width: 900px;
+    text-align: justify;
+    font-size: 21px;
+    left: 15%;
+}

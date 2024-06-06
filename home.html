@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> EvoLogy </title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        html, body {
+            width: 100%;
+            height: 100%;
+            top: 0;
+            left: 0;
+            bottom: 0;
+            margin: 0;
+            padding: 0;
+            overflow-x: hidden;
+        }
+
+        footer {
+            display: flex;
+            position: absolute;
+            bottom: 0;
+            right: 0;
+            left: 0;
+        }
+        .eagle {
+            width: 100%;
+            height: 650px;
+            background: url('home.png');
+            background-position: center; 
+            background-size: cover;
+            background-repeat: no-repeat;
+        }
+        .biology {
+            font-size: 30px;
+            position: relative;
+            top: -550px;
+            left: 33%;
+            color: white;
+            font-family: Tahoma;
+            font-weight: bold;
+            letter-spacing: 2px;
+        }
+        .definition {
+            width: 80vh;
+            font-size: 15px;
+            position: relative;
+            top: -260px;
+            left: 6%;
+            color: white;
+            font-family: Tahoma;
+            letter-spacing: 1px;
+        }
+        .bird {
+            width: 100%;
+            background: url('4.png');
+            background-position: center; 
+            background-size: cover;
+            background-repeat: no-repeat;
+            position: relative;
+            top: -200px;
+            height: 130vh;
+        }
+        .bird2 {
+            width: 100%;
+            background: url('6.png');
+            background-position: center; 
+            background-size: cover;
+            background-repeat: no-repeat;
+            position: relative;
+            top: -200px;
+            height: 100vh;
+        }
+        .card1 {
+            background-image: url('pers.jpg');
+            width: 350px;
+            height: 400px;
+            display: inline-block;
+            border: 2px solid rgb(87, 56, 21);
+            border-radius: 10px;
+            padding: 15px 25px;
+            box-sizing: border-box;
+            cursor: pointer;
+            margin: 10px 15px; 
+            background-position: center;
+            background-size: cover;
+            position: relative;
+            top: -750px;
+            left: 18%;
+            transition: transform 0.3s ease-in-out, background-color 0.3s ease-in-out;
+        }
+        .card2 {
+            background-image: url('evo.png');
+            width: 350px;
+            height: 400px;
+            display: inline-block;
+            border: 2px solid rgb(87, 56, 21);
+            border-radius: 10px;
+            padding: 15px 25px;
+            box-sizing: border-box;
+            cursor: pointer;
+            margin: 10px 15px; 
+            background-position: center;
+            background-size: cover;
+            position: relative;
+            top: -750px;
+            left: 22%;
+            transition: transform 0.3s ease-in-out, background-color 0.3s ease-in-out;
+        }
+
+        .card {
+            position: relative;
+            overflow: hidden;
+        }
+        .card:hover {
+            transform: scale(1.1);
+            background-color: rgba(0, 0, 0, 0.5);
+        }
+
+        .overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent background */
+            color: white;
+            text-align: center;
+            opacity: 0; /* Initially hidden */
+            transition: opacity 0.3s ease; /* Smooth transition */
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 10px;
+        }
+
+        .card:hover .overlay {
+            opacity: 1;
+        }
+
+        .overlay-text {
+            font-size: 20px;
+            font-family: Tahoma;
+        }
+    </style>
+</head>
+<body>
+        <div class="eagle"></div>
+    </a>
+    <p class="biology">EVOLUTIONARY BIOLOGY</p>
+    <div class="definition">
+        Evolutionary biology is the subfield of biology that studies the evolutionary processes (natural selection, common descent, speciation) that produced the diversity of life on Earth. It is also defined as the study of the history of life forms on Earth (Wikipedia).
+    </div>
+    <div class="bird"></div>
+
+    <a href="third.html" target="_blank"> 
+        <div class="card card1">
+            <div class="overlay">
+                <div class="overlay-text">Historical Perspectives</div>
+            </div>
+        </div>
+    </a>
+
+    <a href="fourth.html" target="_blank"> 
+        <div class="card card2">
+            <div class="overlay">
+                <div class="overlay-text">Mechanisms of Evolution</div>
+            </div>
+        </div>
+    </a>
+</body>
+</html>
